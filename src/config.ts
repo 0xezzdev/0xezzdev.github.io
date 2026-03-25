@@ -28,11 +28,11 @@ export const siteConfig = {
       skills: ["Flutter", "Dart", "Real-time Data", "UX/UI"],
     },
     {
-      name: "Security Scripts & Tools",
+      name: "Event-Hub-App",
       description:
-        "A collection of C++ and Python scripts developed for security research and ethical hacking purposes.",
-      link: "https://github.com/0xezzdev",
-      skills: ["C++", "Python", "Networking", "Security"],
+        "A sophisticated Event Management UI Kit built with Flutter. Features modern design patterns, smooth transitions, and high-fidelity layouts.",
+      link: "https://github.com/0xezzdev/Event-Hub-App", // اتأكد إن ده لينك الريبو الصح
+      skills: ["Flutter", "Dart", "UI/UX", "Custom Widgets"],
     },
   ],
   experience: [
