@@ -4,6 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://0xezzdev.github.io', // السطر ده هو اللي هيحل المشكلة
   vite: {
     plugins: [tailwindcss()],
   },
