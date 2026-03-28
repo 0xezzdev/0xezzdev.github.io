@@ -26,6 +26,7 @@ export const siteConfig = {
         "A real-time railway tracking and management system designed to provide accurate train information to users.",
       link: "https://github.com/0xezzdev/Qatrak",
       skills: ["Flutter", "Dart", "Real-time Data", "UX/UI"],
+      image: "public/projects/banner.png"
     },
     {
       name: "Event-Hub-App",
